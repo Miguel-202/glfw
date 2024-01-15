@@ -308,6 +308,7 @@ GLFW exists because people around the world donated their time and lent their
 skills.
 
  - Bobyshev Alexander
+ - Miguel Martinez Olivares
  - Matt Arsenault
  - David Avedissian
  - Keith Bauer
